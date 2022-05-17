@@ -1,0 +1,25 @@
+////What is HTTP?
+Hyper Text Transfer Protolcol , It is the langauge used to communicate between web browsers and servers.
+
+////What is a URL?
+Url Is an web address or link to a resource
+
+////What is DNS?
+DNS maintains a list of domain names with resources like IP adresses, that are associated with them.
+
+////What is a query string?
+This provieds extra information, you can use this to change pages.
+
+////What are two HTTP verbs and how are they different?
+GET and POST, You can request data with GET without anyside effects and should only be used for retrieving data. POST has side effects.
+
+////What is an HTTP request?
+Made by a client, to a named host that is located on a server.
+
+////What is an HTTP response?
+made by a server to a client
+
+////What is an HTTP header? Give a couple examples of request and response headers you have seen.
+
+
+////What are the processes that happen when you type “http://somesite.com/some/page.html” into a browser?
